@@ -5,7 +5,7 @@ To install the package, run the following command
 
 This package helps to escape regular expressions' special characters in the text.
 ```
-    [ ] . * + ? ^ $ { } ( ) | \
+[ ] . * + ? ^ $ { } ( ) | \
 ```
 
 ## Usage
