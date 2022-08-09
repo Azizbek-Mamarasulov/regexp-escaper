@@ -1,0 +1,1 @@
+export function regexpEscaper(text: string): string;

@@ -1,0 +1,25 @@
+{
+  "name": "regexp-escaper",
+  "version": "1.0.0",
+  "description": "Regular expressions' special charaters escaper",
+  "main": "index.js",
+  "exports": {
+    "require": "./index.js",
+    "import": "./index.mjs",
+    "default": "./index.js"
+  },
+  "keywords": [
+    "escaper",
+    "regular expressions escaper",
+    "regular expressions",
+    "regexp",
+    "regexp-escaper",
+    "regex",
+    "regex-escaper"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azizbek Mamarasulov",
+  "license": "ISC"
+}
