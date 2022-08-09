@@ -1,3 +1,3 @@
-exports.regexpEscaper = function (string) {
-  return string.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+exports.regexpEscaper = function (text) {
+  return text.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 };
